@@ -1,0 +1,31 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Laboratory3" x:Class="Laboratory3.MainWindow"
+        Title="MainWindow" Height="727" Width="921">
+    <Grid>
+        <Grid x:Name="grid1" Height="160" Margin="10,67,10,0" VerticalAlignment="Top" Background="#FFF0EEEE" Width="890">
+            <WrapPanel x:Name="wrap1" HorizontalAlignment="Left" Height="160" VerticalAlignment="Top" Width="890"/>
+
+        </Grid>
+        <Grid x:Name="grid2" HorizontalAlignment="Left" Height="160" Margin="10,257,0,0" VerticalAlignment="Top" Width="890" Background="#FFF0EEEE">
+            <WrapPanel x:Name="wrap2" HorizontalAlignment="Left" Height="169" VerticalAlignment="Top" Width="890" Margin="0,0,0,-9"/>
+        </Grid>
+        <Grid x:Name="grid3" HorizontalAlignment="Left" Height="160" Margin="10,447,0,0" VerticalAlignment="Top" Width="890" Background="#FFF0EEEE">
+            <WrapPanel x:Name="wrap3" HorizontalAlignment="Left" Height="160" VerticalAlignment="Top" Width="890"/>
+        </Grid>
+        <Label Content="N = " HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.132,-0.192" Width="175" FontSize="14"/>
+        <TextBox x:Name="tbox" HorizontalAlignment="Left" Height="29" Margin="65,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="15500" FontSize="18"/>
+        <Button Content="Конгруэт." HorizontalAlignment="Left" Margin="825,612,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_2"/>
+        <Button Content="Метод ФН" HorizontalAlignment="Left" Margin="825,422,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+        <Button Content="Рандом" HorizontalAlignment="Left" Margin="825,232,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <RadioButton x:Name="r5" Content="0.05" HorizontalAlignment="Left" Margin="382,47,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="r1" Content="0.1" HorizontalAlignment="Left" Margin="457,47,0,0" VerticalAlignment="Top" IsChecked="True"/>
+        <RadioButton x:Name="r2" Content="0.2" HorizontalAlignment="Left" Margin="527,47,0,0" VerticalAlignment="Top"/>
+        <Label Content="«Всякий, кто питает слабость к арифметическим методам получения случайных чисел, грешен вне всяких сомнений».&#xD;&#xA; © Джон фон Нейман" HorizontalAlignment="Left" Margin="10,644,0,0" VerticalAlignment="Top" FontStyle="Italic"/>
+        <Label x:Name="label1" Content="" HorizontalAlignment="Left" Margin="10,226,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="" HorizontalAlignment="Left" Margin="10,416,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="" HorizontalAlignment="Left" Margin="10,607,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

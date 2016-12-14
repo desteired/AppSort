@@ -1,0 +1,36 @@
+c:\users\андрей\documents\visual studio 2013\Projects\Laboratory3\Laboratory3\bin\Debug\Laboratory3.exe.config
+c:\users\андрей\documents\visual studio 2013\Projects\Laboratory3\Laboratory3\bin\Debug\Laboratory3.exe
+c:\users\андрей\documents\visual studio 2013\Projects\Laboratory3\Laboratory3\bin\Debug\Laboratory3.pdb
+c:\users\андрей\documents\visual studio 2013\Projects\Laboratory3\Laboratory3\obj\Debug\Laboratory3.csprojResolveAssemblyReference.cache
+c:\users\андрей\documents\visual studio 2013\Projects\Laboratory3\Laboratory3\obj\Debug\MainWindow.baml
+c:\users\андрей\documents\visual studio 2013\Projects\Laboratory3\Laboratory3\obj\Debug\MainWindow.g.cs
+c:\users\андрей\documents\visual studio 2013\Projects\Laboratory3\Laboratory3\obj\Debug\App.g.cs
+c:\users\андрей\documents\visual studio 2013\Projects\Laboratory3\Laboratory3\obj\Debug\Laboratory3_MarkupCompile.cache
+c:\users\андрей\documents\visual studio 2013\Projects\Laboratory3\Laboratory3\obj\Debug\Laboratory3.g.resources
+c:\users\андрей\documents\visual studio 2013\Projects\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Properties.Resources.resources
+c:\users\андрей\documents\visual studio 2013\Projects\Laboratory3\Laboratory3\obj\Debug\Laboratory3.csproj.GenerateResource.Cache
+c:\users\андрей\documents\visual studio 2013\Projects\Laboratory3\Laboratory3\obj\Debug\Laboratory3.exe
+c:\users\андрей\documents\visual studio 2013\Projects\Laboratory3\Laboratory3\obj\Debug\Laboratory3.pdb
+c:\users\андрей\documents\visual studio 2013\Projects\Laboratory3\Laboratory3\obj\Debug\UserControl1.baml
+c:\users\андрей\documents\visual studio 2013\Projects\Laboratory3\Laboratory3\obj\Debug\UserControl1.g.cs
+c:\users\андрей\documents\visual studio 2013\Projects\Laboratory3\Laboratory3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\андрей\documents\visual studio 2013\Projects\Laboratory3\Laboratory3\obj\Debug\Laboratory3_MarkupCompile.lref
+D:\_УЧЁБА\Проекты вижака\Laboratory3\Laboratory3\bin\Debug\Laboratory3.exe.config
+D:\_УЧЁБА\Проекты вижака\Laboratory3\Laboratory3\obj\Debug\Laboratory3.exe
+D:\_УЧЁБА\Проекты вижака\Laboratory3\Laboratory3\obj\Debug\Laboratory3.pdb
+D:\_УЧЁБА\Проекты вижака\Laboratory3\Laboratory3\bin\Debug\Laboratory3.exe
+D:\_УЧЁБА\Проекты вижака\Laboratory3\Laboratory3\bin\Debug\Laboratory3.pdb
+D:\_УЧЁБА\Проекты вижака\Laboratory3\Laboratory3\obj\Debug\Laboratory3.csprojResolveAssemblyReference.cache
+D:\_УЧЁБА\Проекты вижака\Laboratory3\Laboratory3\obj\Debug\UserControl1.baml
+D:\_УЧЁБА\Проекты вижака\Laboratory3\Laboratory3\obj\Debug\MainWindow.g.cs
+D:\_УЧЁБА\Проекты вижака\Laboratory3\Laboratory3\obj\Debug\UserControl1.g.cs
+D:\_УЧЁБА\Проекты вижака\Laboratory3\Laboratory3\obj\Debug\App.g.cs
+D:\_УЧЁБА\Проекты вижака\Laboratory3\Laboratory3\obj\Debug\Laboratory3_MarkupCompile.cache
+D:\_УЧЁБА\Проекты вижака\Laboratory3\Laboratory3\obj\Debug\Laboratory3_MarkupCompile.lref
+D:\_УЧЁБА\Проекты вижака\Laboratory3\Laboratory3\obj\Debug\MainWindow.baml
+D:\_УЧЁБА\Проекты вижака\Laboratory3\Laboratory3\obj\Debug\Laboratory3.g.resources
+D:\_УЧЁБА\Проекты вижака\Laboratory3\Laboratory3\obj\Debug\Laboratory3.Properties.Resources.resources
+D:\_УЧЁБА\Проекты вижака\Laboratory3\Laboratory3\obj\Debug\Laboratory3.csproj.GenerateResource.Cache
+D:\_УЧЁБА\Проекты вижака\Laboratory3 можн\Laboratory3\bin\Debug\Laboratory3.exe.config
+D:\_УЧЁБА\Проекты вижака\Laboratory3 можн\Laboratory3\obj\Debug\Laboratory3.exe
+D:\_УЧЁБА\Проекты вижака\Laboratory3 можн\Laboratory3\obj\Debug\Laboratory3.pdb

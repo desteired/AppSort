@@ -1,0 +1,19 @@
+D:\_УЧЁБА\Проекты вижака\Laboratory3 можн\Laboratory3\bin\Debug\Laboratory3.exe.config
+D:\_УЧЁБА\Проекты вижака\Laboratory3 можн\Laboratory3\bin\Debug\Laboratory3.exe
+D:\_УЧЁБА\Проекты вижака\Laboratory3 можн\Laboratory3\bin\Debug\Laboratory3.pdb
+D:\_УЧЁБА\Проекты вижака\Laboratory3 можн\Laboratory3\obj\Debug\AppSorting.csprojResolveAssemblyReference.cache
+D:\_УЧЁБА\Проекты вижака\Laboratory3 можн\Laboratory3\obj\Debug\UserControl1.baml
+D:\_УЧЁБА\Проекты вижака\Laboratory3 можн\Laboratory3\obj\Debug\MainWindow.g.cs
+D:\_УЧЁБА\Проекты вижака\Laboratory3 можн\Laboratory3\obj\Debug\UserControl1.g.cs
+D:\_УЧЁБА\Проекты вижака\Laboratory3 можн\Laboratory3\obj\Debug\App.g.cs
+D:\_УЧЁБА\Проекты вижака\Laboratory3 можн\Laboratory3\obj\Debug\Laboratory3_MarkupCompile.cache
+D:\_УЧЁБА\Проекты вижака\Laboratory3 можн\Laboratory3\obj\Debug\Laboratory3_MarkupCompile.lref
+D:\_УЧЁБА\Проекты вижака\Laboratory3 можн\Laboratory3\obj\Debug\MainWindow.baml
+D:\_УЧЁБА\Проекты вижака\Laboratory3 можн\Laboratory3\obj\Debug\Laboratory3.g.resources
+D:\_УЧЁБА\Проекты вижака\Laboratory3 можн\Laboratory3\obj\Debug\Laboratory3.Properties.Resources.resources
+D:\_УЧЁБА\Проекты вижака\Laboratory3 можн\Laboratory3\obj\Debug\AppSorting.csproj.GenerateResource.Cache
+D:\_УЧЁБА\Проекты вижака\Laboratory3 можн\Laboratory3\obj\Debug\Laboratory3.exe
+D:\_УЧЁБА\Проекты вижака\Laboratory3 можн\Laboratory3\obj\Debug\Laboratory3.pdb
+D:\_УЧЁБА\Проекты вижака\AS\Laboratory3\bin\Debug\Laboratory3.exe.config
+D:\_УЧЁБА\Проекты вижака\AS\Laboratory3\obj\Debug\Laboratory3.exe
+D:\_УЧЁБА\Проекты вижака\AS\Laboratory3\obj\Debug\Laboratory3.pdb
